@@ -1,0 +1,7 @@
+Instructions for saving folder from Jupyter:
+
+1. Go into folder THESIS
+2. Press New>Terminal
+3. In the terminal, type 
+	tar czf Split_Data.tar.gz ./THESIS/Split_Data
+		^name of folder to zip		^path to folder

@@ -1,0 +1,7 @@
+Instructions for preprocessing and filtering the data:
+
+1. Make sure you are in correct folder and in the path
+2. Go to importCSV.m and on line 12, change the filename accordingly to each joint/trial
+3. Run this file
+4. Go to main.m and on lines 134 and 135 change the file name accordingly
+5. Run this file, which will give you a txt file in the output folder
